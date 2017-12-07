@@ -1,0 +1,218 @@
+2015-06-02 18:19:36,690 [Thread-2:5904] [blog.views:11] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-02 18:21:20,237 [Thread-8:5784] [blog.views:11] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-02 18:30:50,698 [Thread-2:2752] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-02 18:31:07,993 [Thread-2:5660] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-02 18:31:31,128 [Thread-2:3356] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 15:27:40,071 [Thread-2:5952] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 17:32:38,887 [Thread-41:2620] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 17:36:14,733 [Thread-45:3460] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 17:46:34,191 [Thread-58:5928] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 17:53:13,569 [Thread-72:3516] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 17:56:15,328 [Thread-84:7484] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 17:58:08,994 [Thread-96:6528] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:02:55,747 [Thread-110:4912] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:03:11,200 [Thread-2:6748] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:04:51,278 [Thread-12:6604] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:06:37,188 [Thread-2:5020] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:07:20,618 [Thread-8:3636] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:07:37,653 [Thread-10:6280] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-08 18:11:09,709 [Thread-22:2620] [blog.views:16] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2015-06-09 17:20:24,430 [Thread-22:8000] [blog.views:29] [views:index] [ERROR]- invalid literal for int() with base 10: 'ddd'
+2015-06-10 15:04:49,648 [Thread-2:10096] [blog.views:31] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:05:03,825 [Thread-14:7208] [blog.views:31] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:05:47,466 [Thread-2:6892] [blog.views:31] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:06:00,331 [Thread-15:3192] [blog.views:31] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:09:13,878 [Thread-2:6428] [blog.views:31] [views:index] [ERROR]- 'date_publish' is a DateTimeField, not a DateField.
+2015-06-10 15:09:28,397 [Thread-2:6696] [blog.views:32] [views:index] [ERROR]- 'date_publish' is a DateTimeField, not a DateField.
+2015-06-10 15:09:54,683 [Thread-2:4812] [blog.views:32] [views:index] [ERROR]- Database returned an invalid value in QuerySet.datetimes(). Are time zone definitions for your database and pytz installed?
+2015-06-10 15:13:30,331 [Thread-2:3964] [blog.views:32] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:13:51,769 [Thread-2:8844] [blog.views:32] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:14:21,881 [Thread-2:6284] [blog.views:32] [views:index] [ERROR]- DISTINCT ON fields is not supported by this database backend
+2015-06-10 15:37:20,263 [Thread-2:6908] [blog.views:36] [views:index] [ERROR]- Raw query must include the primary key
+2015-06-10 15:38:56,917 [Thread-2:4312] [blog.views:36] [views:index] [ERROR]- (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'DISTINCT DATE_FORMAT(date_publish, "%Y-%m") as col_date FROM blog_article ORDER \' at line 1')
+2015-06-10 16:15:22,463 [Thread-50:9076] [blog.views:62] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2015-06-10 16:15:27,243 [Thread-54:4968] [blog.views:62] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2015-06-10 16:42:10,993 [Thread-2:7752] [blog.views:46] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:42:32,805 [Thread-14:9384] [blog.views:46] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:42:36,690 [Thread-26:9012] [blog.views:57] [views:archive] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:42:42,789 [Thread-30:8640] [blog.views:46] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:43:02,029 [Thread-2:9124] [blog.views:47] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:43:09,953 [Thread-14:8276] [blog.views:47] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:44:01,450 [Thread-26:9760] [blog.views:47] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2015-06-10 16:45:45,793 [Thread-46:2744] [blog.views:58] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2015-06-10 16:47:17,980 [Thread-88:7388] [blog.views:58] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2015-06-16 14:51:41,684 [Thread-2:20204] [blog.views:100] [views:article] [ERROR]- 'int' object has no attribute 'upper'
+2015-06-16 14:52:01,048 [Thread-2:18372] [blog.views:101] [views:article] [ERROR]- 'int' object has no attribute 'upper'
+2015-06-16 16:24:47,555 [Thread-2:39780] [blog.views:113] [views:article] [ERROR]- 'Comment' object has no attribute 'children_comment'
+2015-06-16 16:25:30,266 [Thread-2:39348] [blog.views:113] [views:article] [ERROR]- 'Comment' object has no attribute 'children_comment'
+2015-06-16 16:34:43,289 [Thread-2:39948] [blog.views:110] [views:article] [ERROR]- 'Comment' object has no attribute 'children_comment'
+2015-06-18 11:53:57,273 [Thread-23:11016] [blog.views:116] [views:article] [ERROR]- 'AnonymousUser' object has no attribute 'email'
+2015-06-18 11:54:13,278 [Thread-27:7988] [blog.views:116] [views:article] [ERROR]- 'AnonymousUser' object has no attribute 'email'
+2015-06-18 11:54:51,447 [Thread-2:11068] [blog.views:116] [views:article] [ERROR]- 'AnonymousUser' object has no attribute 'email'
+2015-06-18 11:56:02,858 [Thread-2:10792] [blog.views:117] [views:article] [ERROR]- 'AnonymousUser' object has no attribute 'email'
+2015-06-18 11:57:20,801 [Thread-2:11624] [blog.views:116] [views:article] [ERROR]- 'AnonymousUser' object has no attribute 'email'
+2015-06-18 13:44:34,516 [Thread-2:28676] [blog.views:136] [views:comment_post] [ERROR]- dumps() takes at least 1 argument (0 given)
+2015-06-18 13:46:34,177 [Thread-16:30264] [blog.views:136] [views:comment_post] [ERROR]- dumps() takes at least 1 argument (0 given)
+2015-06-18 13:54:02,503 [Thread-7:30780] [blog.views:134] [views:comment_post] [ERROR]- dumps() takes at least 1 argument (0 given)
+2015-06-18 15:22:51,171 [Thread-16:46820] [blog.views:173] [views:do_reg] [ERROR]- 'User' object has no attribute 'backend'
+2015-06-18 15:26:17,615 [Thread-2:1308] [blog.views:174] [views:do_reg] [ERROR]- (1062, "Duplicate entry '5566' for key 'username'")
+2015-06-18 15:52:41,315 [Thread-5:52768] [blog.views:173] [views:do_reg] [ERROR]- 'password1'
+2015-06-18 15:52:49,421 [Thread-6:52772] [blog.views:173] [views:do_reg] [ERROR]- 'password1'
+2015-06-18 15:52:52,585 [Thread-7:52796] [blog.views:173] [views:do_reg] [ERROR]- 'password1'
+2015-06-18 15:52:58,059 [Thread-9:52804] [blog.views:173] [views:do_reg] [ERROR]- 'password1'
+2015-06-18 16:21:52,552 [Thread-18:54640] [blog.views:206] [views:category] [ERROR]- Cannot resolve keyword 'categroy_id' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:23:43,878 [Thread-10:57512] [blog.views:210] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:23:46,529 [Thread-11:57520] [blog.views:210] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:23:49,391 [Thread-12:57544] [blog.views:210] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:23:50,260 [Thread-13:57560] [blog.views:210] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:24:06,690 [Thread-14:57788] [blog.views:210] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:24:44,395 [Thread-39:58268] [blog.views:210] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:24:58,700 [Thread-2:57468] [blog.views:211] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-18 16:25:11,709 [Thread-2:54640] [blog.views:212] [views:category] [ERROR]- Cannot resolve keyword 'categroy' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2015-06-19 13:21:17,970 [Thread-2:5552] [blog.views:58] [views:index] [ERROR]- 'WSGIRequest' object has no attribute 'args'
+2015-06-19 13:21:19,151 [Thread-5:7992] [blog.views:58] [views:index] [ERROR]- 'WSGIRequest' object has no attribute 'args'
+2015-06-19 13:22:00,430 [Thread-2:7968] [blog.views:58] [views:index] [ERROR]- 'WSGIRequest' object has no attribute 'args'
+2017-11-28 07:32:16,367 [Thread-2:140119080171264] [blog.views:109] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 07:33:31,972 [Thread-3:140119080171264] [blog.views:109] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 07:39:40,511 [Thread-2:140530366662400] [blog.views:111] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 07:41:11,730 [Thread-4:140530366662400] [blog.views:111] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 07:41:38,686 [Thread-5:140530366662400] [blog.views:111] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 07:43:31,802 [Thread-17:140530366662400] [blog.views:111] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 08:20:11,093 [Thread-17:140427084678912] [blog.views:111] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-11-28 09:42:50,702 [Thread-3:139841646958336] [blog.views:68] [views:tag] [ERROR]- Tag matching query does not exist.
+2017-11-28 09:54:23,520 [Thread-2:140295912027904] [blog.views:68] [views:tag] [ERROR]- Tag matching query does not exist.
+2017-11-28 10:02:02,428 [Thread-12:140267766048512] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 11:27:48,623 [Thread-17:140439155353344] [blog.views:116] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 12:23:52,743 [Thread-12:139901228013312] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:23:57,925 [Thread-13:139901228013312] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:24:22,394 [Thread-23:139901219620608] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:24:35,824 [Thread-26:139901236406016] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:29:17,064 [Thread-12:140408934889216] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:29:21,109 [Thread-13:140408934889216] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:29:28,699 [Thread-15:140408943281920] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:34:24,153 [Thread-2:139726485538560] [blog.views:118] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:34:28,319 [Thread-4:139726485538560] [blog.views:118] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:36:20,189 [Thread-12:139910185969408] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:36:27,799 [Thread-14:139910185969408] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:37:53,945 [Thread-12:139701050664704] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:37:57,393 [Thread-13:139701050664704] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:38:09,144 [Thread-15:139701050664704] [blog.views:117] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:39:28,737 [Thread-2:139833261389568] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:39:33,381 [Thread-9:139833261389568] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:40:16,147 [Thread-12:139833261389568] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:43:08,356 [Thread-14:139833261389568] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:48:58,733 [Thread-17:139833261389568] [blog.views:116] [views:article] [ERROR]- 'ArticleManager' object has no attribute 'click_count'
+2017-12-02 12:50:30,622 [Thread-2:139677319145216] [blog.views:116] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2017-12-02 12:50:42,490 [Thread-19:139677235410688] [blog.views:116] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2017-12-02 12:51:51,533 [Thread-13:140233118574336] [blog.views:117] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2017-12-02 12:52:53,715 [Thread-25:140233126967040] [blog.views:117] [views:article] [ERROR]- Manager isn't accessible via Article instances
+2017-12-02 12:55:41,174 [Thread-2:139779894580992] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 12:55:53,643 [Thread-9:139779874821888] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 12:56:56,923 [Thread-3:139759103579904] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 12:57:00,120 [Thread-4:139759103579904] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:03:01,130 [Thread-47:139759083558656] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:03:04,147 [Thread-48:139759083558656] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:04:30,444 [Thread-13:139995541214976] [blog.views:118] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:15:10,146 [Thread-2:140208291677952] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:15:19,601 [Thread-8:140208041346816] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:15:27,588 [Thread-15:140208058132224] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:15:55,040 [Thread-16:140208058132224] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:17:08,618 [Thread-22:140208066524928] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:17:30,854 [Thread-25:140208058132224] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:17:56,107 [Thread-27:140208049739520] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:18:29,625 [Thread-28:140208049739520] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:20:38,078 [Thread-2:139933025425152] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:21:39,207 [Thread-2:140223811168000] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:21:47,853 [Thread-4:140223811168000] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:22:39,085 [Thread-2:140679036532480] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:22:51,661 [Thread-8:140679028139776] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:25:30,322 [Thread-14:140679019747072] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:27:57,597 [Thread-7:140375609652992] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:28:08,637 [Thread-9:140375609652992] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:33:30,186 [Thread-2:140179707651840] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:33:36,032 [Thread-8:140179687892736] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:35:40,322 [Thread-14:140179707651840] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:38:18,171 [Thread-20:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:39:06,871 [Thread-21:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:43:54,692 [Thread-27:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:44:35,234 [Thread-28:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:50:27,140 [Thread-29:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:50:34,131 [Thread-31:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:51:54,936 [Thread-32:140179696285440] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 13:52:06,205 [Thread-39:140179687892736] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:52:14,438 [Thread-40:140179687892736] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:52:17,343 [Thread-41:140179687892736] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:53:55,368 [Thread-56:140179707651840] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:54:05,737 [Thread-57:140179707651840] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:56:02,813 [Thread-58:140179707651840] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:56:59,593 [Thread-64:140179468707584] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:57:09,518 [Thread-70:140179707651840] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:58:17,629 [Thread-78:140179696285440] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:58:38,937 [Thread-85:140179687892736] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:58:44,550 [Thread-87:140179687892736] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 13:58:53,449 [Thread-88:140179687892736] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 14:02:05,182 [Thread-3:140237415216896] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 14:02:12,895 [Thread-5:140237415216896] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 14:11:30,818 [Thread-67:140237403326208] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:12:03,566 [Thread-79:140237183379200] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:12:07,869 [Thread-80:140237191771904] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:12:09,386 [Thread-87:140237174986496] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-02 14:12:18,877 [Thread-90:140237174986496] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:13:22,385 [Thread-114:140237183379200] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:14:45,062 [Thread-115:140237183379200] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:14:51,922 [Thread-121:140237403326208] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:15:29,025 [Thread-127:140237191771904] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:16:12,115 [Thread-133:140237166593792] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:16:26,032 [Thread-140:140237183379200] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:19:56,282 [Thread-143:140237183379200] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-02 14:20:51,456 [Thread-145:140237183379200] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:22:23,902 [Thread-11:140246721230592] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:23:55,374 [Thread-13:140246721230592] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:25:01,780 [Thread-14:140246721230592] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:25:06,190 [Thread-22:140246712837888] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:28:17,496 [Thread-23:140246712837888] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:28:20,774 [Thread-30:140246721230592] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:28:23,976 [Thread-33:140247070209792] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:30:40,505 [Thread-41:140246712837888] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:31:26,397 [Thread-48:140247070209792] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:31:34,669 [Thread-52:140247078602496] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:35:08,424 [Thread-57:140247070209792] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:35:10,939 [Thread-58:140247070209792] [blog.views:117] [views:article] [ERROR]- 'User' object has no attribute 'url'
+2017-12-03 13:35:50,097 [Thread-68:140247078602496] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:36:57,925 [Thread-71:140247078602496] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:37:06,510 [Thread-72:140247078602496] [blog.views:117] [views:article] [ERROR]- int() argument must be a string, a bytes-like object or a number, not 'Article'
+2017-12-03 13:47:21,178 [Thread-2:139917619361536] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:47:24,768 [Thread-12:139917619361536] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:47:42,835 [Thread-13:139917619361536] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:47:44,660 [Thread-23:139917608781568] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:47:45,889 [Thread-24:139917608781568] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:48:37,257 [Thread-25:139917608781568] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:49:28,922 [Thread-35:139917583603456] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:49:53,167 [Thread-45:139917600388864] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:49:57,643 [Thread-55:139917583603456] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:50:26,470 [Thread-65:139917591996160] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:51:17,644 [Thread-75:139917619361536] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 13:52:59,009 [Thread-85:139917575210752] [blog.views:51] [views:index] [ERROR]- Invalid order_by arguments: ['-']
+2017-12-03 14:03:49,125 [Thread-2:140278979991296] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:04:50,637 [Thread-12:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:04:59,727 [Thread-22:140278943446784] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:09:43,072 [Thread-52:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:09:45,846 [Thread-53:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:10:14,638 [Thread-63:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:13:39,536 [Thread-78:140278968624896] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:13:53,687 [Thread-79:140278968624896] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:15:33,637 [Thread-80:140278968624896] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:15:42,261 [Thread-90:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:15:45,402 [Thread-91:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:15:47,660 [Thread-92:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:15:49,363 [Thread-93:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:16:17,281 [Thread-94:140278951839488] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:16:22,311 [Thread-104:140278589548288] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:16:24,465 [Thread-105:140278589548288] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:17:56,203 [Thread-106:140278589548288] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:24:40,572 [Thread-8:139732197570304] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:24:58,848 [Thread-10:139732197570304] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:25:53,782 [Thread-12:139732197570304] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:26:14,693 [Thread-14:139732197570304] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:26:57,243 [Thread-15:139732197570304] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
+2017-12-03 14:28:38,319 [Thread-16:139732197570304] [blog.views:51] [views:index] [ERROR]- too many values to unpack (expected 2)
